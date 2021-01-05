@@ -1,0 +1,8 @@
+def func(int x, int y):
+    a = x + y;
+    return a;
+
+def main():
+    int x, y = 10, 2;
+    put:func(int x, int y);
+    return 0;
